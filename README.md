@@ -1,4 +1,6 @@
 # JSEcoin Node
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fserver.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fserver?ref=badge_shield)
+
 
 The JSEcoin node (jsenode.js) runs as part of the JSEcoin peer to peer network.
 
@@ -118,3 +120,5 @@ If you'd like to assist and help the team please first review our [Contribution 
 
 ## License
 This project is under the [GNU General Public License v3.0](./LICENSE.md).
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fserver.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fserver?ref=badge_large)
